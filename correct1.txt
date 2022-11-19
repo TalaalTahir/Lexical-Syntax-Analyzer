@@ -1,0 +1,13 @@
+B {
+num thisval
+thisval = 255_1 - 20_1
+num another
+another = 2002_4
+whenever ( another < 2003_4 ) {
+another = 2004_4
+}
+however {
+another = 2003_4 + another
+}
+}
+E

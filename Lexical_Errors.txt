@@ -1,0 +1,15 @@
+Begin {
+int x
+go ( x < 288_1 )
+num newval
+newval = 30_1 
+if ( newval < 40_1) {
+newval = 300 * 20_1
+}
+}
+E
+---Error Begin is not the correct lexeme not defined as a token 
+---Error x is not correct lexical variable size
+---Error 288 is not lexical 1 byte 
+---Error if is not a lexeme
+---Error 300 is not a lexical literal 

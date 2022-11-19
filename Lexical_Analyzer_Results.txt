@@ -1,0 +1,32 @@
+Lexical Analyzer Results: 
+Lexeme: B,Token  --> BEGIN : 20
+Lexeme: {,Token --> LEFT_BRACK: 23
+Lexeme: go,Token --> GO_CODE: 18
+Lexeme: (,Token --> LEFT_PAREN: 25
+Lexeme: <,Token --> LESS_THAN: 6
+Lexeme: ),Token --> RIGHT_PAREN: 26
+Lexeme: num,Token --> ID: 0
+Lexeme: newval,Token --> VAL_NAME: 19
+Lexeme: newval,Token --> VAL_NAME: 19
+Lexeme: =,Token --> ASS_OP: 27
+Lexeme: 30_1,Token --> ONE_BYTE: 12
+Lexeme: (,Token --> LEFT_PAREN: 25
+Lexeme: newval,Token --> VAL_NAME: 19
+Lexeme: <,Token --> LESS_THAN: 6
+Lexeme: 40_1),Token --> ONE_BYTE: 12
+Lexeme: {,Token --> LEFT_BRACK: 23
+Lexeme: newval,Token --> VAL_NAME: 19
+Lexeme: =,Token --> ASS_OP: 27
+Lexeme: *,Token --> MULT_OP: 3
+Lexeme: 20_1,Token --> ONE_BYTE: 12
+Lexeme: },Token --> RIGHT_BRACK: 24
+Lexeme: },Token --> RIGHT_BRACK: 24
+Lexeme: E,Token --> END: 21
+Lexeme: correct,Token --> VAL_NAME: 19
+Lexeme: lexical,Token --> VAL_NAME: 19
+Lexeme: variable,Token --> VAL_NAME: 19
+Lexeme: lexical,Token --> VAL_NAME: 19
+Lexeme: lexeme,Token --> VAL_NAME: 19
+Lexeme: lexeme,Token --> VAL_NAME: 19
+Lexeme: ending,Token --> VAL_NAME: 19
+Lexeme: B,Token  --> BEGIN : 20

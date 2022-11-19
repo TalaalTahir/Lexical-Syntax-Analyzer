@@ -1,0 +1,16 @@
+B {
+num thisval
+num another
+another = 2002_4
+whenever ( another < 2003_4 ) 
+another = 2004_4
+another = 2004_4 + 300_2 
+num variable
+variable = 200_2 * 10_1
+
+
+---Error did not assign variable to thisval
+---Error Does not have Bracket after whenever
+---Error Did not use however
+---Error Doesnt have E
+---Error did not use ending Bracket after B

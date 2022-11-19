@@ -1,0 +1,14 @@
+B {
+num helloo
+helloo = 1_1
+go ( helloo < 3_1 ) 
+{
+num another
+another = 200_2
+}
+num thisval
+thisval = 200_2 / 10_1
+thisval = 200_2 % 5_1
+thisval = 20_2 * 10_1
+}
+E
