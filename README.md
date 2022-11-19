@@ -26,4 +26,30 @@ The Pairwise disjoini test
 
 The Pairwise disjoint test is passed and there is no left recursion, meaning this conforms to the standard of an LL Grammar. There are no two ways to get the same string meaning the grammar is not ambiguous, passing the test for ambiguous grammar also. 
 
+Part H:
+
+Below is the basic LR(1) table for arithmetic. 
+
+![image](https://user-images.githubusercontent.com/77017392/202863210-ba0d6ad2-fb8b-4f5e-91ac-4c8f2da33424.png)
+
+![image](https://user-images.githubusercontent.com/77017392/202863141-560941f7-51ef-4079-b4d4-585f92c1fc07.png)
+
+Tracing code for 1 correct sample would be:
+
+![image](https://user-images.githubusercontent.com/77017392/202863230-674b7687-769c-4181-9fd8-c2f9c423d04c.png)
+
+Tracing code for another correct sample would be:
+
+![image](https://user-images.githubusercontent.com/77017392/202863273-81a102bb-6986-467a-84e8-527be405efcf.png)
+
+Tracing code for incorrect sample would be:
+
+![image](https://user-images.githubusercontent.com/77017392/202863298-c323bdfb-7174-4665-bb39-b9e4d765cb55.png)
+
+Tracing code for another incorrect sample would be:
+
+![image](https://user-images.githubusercontent.com/77017392/202863330-7a724c55-85ea-4fa6-af9d-aabc8aae65ed.png)
+
+
+
 
