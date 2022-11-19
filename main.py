@@ -1,4 +1,4 @@
-import analyzer
+import lexical
 import RDA
 
 def main():
@@ -9,7 +9,7 @@ def main():
   else:
     with open(input_string, "r") as input_file:
       text = input_file.read()
-  analyze = analyzer.lexeme_anaylzer(text)
+  analyze = lexical.lexeme_anaylzer(text)
   tokens = analyze.generateToken()
   syntax = RDA.syntax_analyzer(tokens)
   objs = syntax.program()
