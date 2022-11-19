@@ -30,13 +30,11 @@ Part H:
 
 Below is the basic LR(1) table for arithmetic. 
 
-![image](https://user-images.githubusercontent.com/77017392/202863210-ba0d6ad2-fb8b-4f5e-91ac-4c8f2da33424.png)
-
-![image](https://user-images.githubusercontent.com/77017392/202863141-560941f7-51ef-4079-b4d4-585f92c1fc07.png)
+![image](https://user-images.githubusercontent.com/77017392/202866809-58a328f8-27e0-458d-8b12-84a7f5f8b5a6.png)
 
 Tracing code for 1 correct sample would be:
 
-![image](https://user-images.githubusercontent.com/77017392/202863230-674b7687-769c-4181-9fd8-c2f9c423d04c.png)
+![image](https://user-images.githubusercontent.com/77017392/202866528-7f832202-4821-4cf7-ab19-002c373746bb.png)
 
 Tracing code for another correct sample would be:
 
