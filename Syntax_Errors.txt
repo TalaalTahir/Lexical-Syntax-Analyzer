@@ -8,7 +8,7 @@ another = 2004_4 + 300_2
 num variable
 variable = 200_2 * 10_1
 
-
+REMOVE THIS LINE AND BELOW BEOFRE RUNNING
 ---Error did not assign variable to thisval
 ---Error Does not have Bracket after whenever
 ---Error Did not use however
